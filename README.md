@@ -4,7 +4,7 @@ Implementation of Dijkstra's shortest path algorithm with caller defined edge tr
 
 ## Understanding Dijkstra's shortest path algorithm
 
-See [this](https://github.com/Clarksj4/RPGCampaign/wiki/Dijkstra's-Algorithm) page for information about this implementation of Dijkstra's shortest path Algorithm
+See [this page](https://github.com/Clarksj4/Pathfind/wiki) for information about this implementation of Dijkstra's shortest path Algorithm
 
 
 ## Finding a path
